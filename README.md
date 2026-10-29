@@ -58,7 +58,7 @@ Workforce management web app for shift-based businesses: scheduling, availabilit
 </td>
 <td width="50%" valign="top">
 
-### ✅ [TaskFlow](https://github.com/gbogdev/TaskFlow)
+### ✅ [Daybook](https://github.com/gbogdev/Daybook)
 Desktop task and project manager with a Kanban board, drag-and-drop, themes, import/export and local SQLite storage.
 
 `Python` `PySide6` `SQLite` `pytest`
@@ -68,15 +68,15 @@ Desktop task and project manager with a Kanban board, drag-and-drop, themes, imp
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [DevScope](https://github.com/gbogdev/DevScope)
-Desktop utility for monitoring CPU, memory, disk and network usage and investigating application logs, with alert rules and report export.
+### 📊 [Vitals](https://github.com/gbogdev/Vitals)
+Local-only system monitor and log analyzer for Windows: CPU, memory, disk and network usage, log search and filtering, alert rules and report export.
 
 `Python` `PySide6` `psutil` `pytest`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌟 [Northstar Software](https://github.com/gbogdev/northstar-software)
+### 🌟 [George's Workshop](https://github.com/gbogdev/georges-workshop)
 Portfolio and product catalogue site that pulls release data from the GitHub REST API, with caching and rate-limit handling.
 
 `React` `TypeScript` `Vite` `Vitest`
