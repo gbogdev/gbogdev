@@ -13,11 +13,11 @@
 
 ## 🧑‍💻 About me
 
-I'm a junior developer who loves turning ideas into practical tools: desktop apps, web apps and small sites. I mainly work in **Python**, with growing experience in **TypeScript / React** and **Django**, and I've also written **Lua for FiveM**, scripting server and client resources.
+I'm a junior developer who loves turning ideas into practical tools: desktop apps, web apps and small sites. I mainly work in **Python**, with growing experience in **TypeScript / React**, **Django** and **C# / .NET**, and I've also written **Lua for FiveM**, scripting server and client resources.
 
 I'm still early in my career and I'm here to **learn, improve and ship**. I enjoy reading other people's code, getting feedback, and slowly making my own cleaner, better tested and easier to maintain.
 
-- 🔭 Building: desktop and web projects (see below)
+- 🔭 Building: **Hushwire**, a Windows ad and tracker blocker, plus desktop and web projects (see below)
 - 🌱 Learning: testing, clean project structure, deployment
 - 🎮 Also into: FiveM scripting in Lua
 - 🤝 Open to: junior developer roles, collaboration and feedback
@@ -25,6 +25,7 @@ I'm still early in my career and I'm here to **learn, improve and ship**. I enjo
 ## 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,12 +40,28 @@ I'm still early in my career and I'm here to **learn, improve and ship**. I enjo
 
 | Area | What I use |
 | --- | --- |
+| **C# / .NET** | .NET 9, WPF desktop apps, sockets and DNS, xUnit, WiX installers, GitHub Actions |
 | **Python** | PySide6 (Qt) desktop apps, Django, Django REST Framework, pytest, psutil |
 | **Lua / FiveM** | Client and server scripts, resources, events and natives |
 | **Frontend** | React, TypeScript, Vite, React Router, Vitest + Testing Library |
 | **Data / DevOps** | PostgreSQL, SQLite, Docker Compose, Caddy |
 
-## 🚀 Projects
+## 🚀 Featured project
+
+<table>
+<tr>
+<td valign="top">
+
+### 🛡️ [Hushwire](https://github.com/gbogdev/Hushwire)
+A small Windows app that blocks ads, trackers and known-bad sites for **every program on the PC** by answering DNS lookups itself: no extension, no account, no telemetry. Tray app with a dashboard, 28 built-in filter lists, your own allow/block rules, safe list updates, and DNS settings that are restored on exit, crash and reboot. Opt-in YouTube/Twitch ad filtering. Installer and portable exe.
+
+`C#` `.NET 9` `WPF` `DNS` `xUnit` `WiX` `GitHub Actions`
+
+</td>
+</tr>
+</table>
+
+## 🧰 More projects
 
 <table>
 <tr>
